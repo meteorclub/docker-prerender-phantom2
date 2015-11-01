@@ -1,6 +1,6 @@
 # docker-prerender
 
-Dockerfile to build the prerender container image
+Dockerfile to build the prerender container image. This container has a compiled version of phantomjs v2 and will set an environment variable to tell prerender to use it.
 
 ## About
 
